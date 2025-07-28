@@ -1,2 +1,2 @@
-var msg=("hello there this is from javascript")
-console.log(msg)
+var mssg=("hello there this is from javascript")
+console.log(mssg)
